@@ -14,7 +14,7 @@ function (Controller) {
 		
 	onShowHello: function () {
 		// show a native JavaScript alert
-		// updated on March 30
+		// updated on March 30, 2022
 
 		alert("Hello!");
 		}
